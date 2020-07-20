@@ -11,11 +11,11 @@
      <td>Tub</td>
   </tr>
   <tr>
-    <td><img src="GIFs/Block.gif" width=100></td>
-    <td><img src="GIFs/Beehive.gif" width=120></td>
-    <td><img src="GIFs/Loaf.gif" width=100></td>
-    <td><img src="GIFs/Boat.gif" width=100></td>
-    <td><img src="GIFs/Tub.gif" width=100></td>
+    <td><img src="Game of Life/GIFs/Block.gif" width=100></td>
+    <td><img src="Game of Life/GIFs/Beehive.gif" width=120></td>
+    <td><img src="Game of Life/GIFs/Loaf.gif" width=100></td>
+    <td><img src="Game of Life/GIFs/Boat.gif" width=100></td>
+    <td><img src="Game of Life/GIFs/Tub.gif" width=100></td>
   </tr>
 </table>
 
@@ -29,10 +29,10 @@
      <td>Pulsar</td>
   </tr>
   <tr>
-    <td><img src="GIFs/Blinker.gif" width=100></td>
-    <td><img src="GIFs/Toad.gif" width=100></td>
-    <td><img src="GIFs/Beacon.gif" width=100></td>
-    <td><img src="GIFs/Pulsar.gif" width=100></td>
+    <td><img src="Game of Life/GIFs/Blinker.gif" width=100></td>
+    <td><img src="Game of Life/GIFs/Toad.gif" width=100></td>
+    <td><img src="Game of Life/GIFs/Beacon.gif" width=100></td>
+    <td><img src="Game of Life/GIFs/Pulsar.gif" width=100></td>
   </tr>
 </table>
 
@@ -46,10 +46,10 @@
      <td>Heavy Weight Spaceship</td>
   </tr>
   <tr>
-    <td><img src="GIFs/Glider.gif" height=100></td>
-    <td><img src="GIFs/Light Weight Spaceship.gif" height=80></td>
-    <td><img src="GIFs/Middle Weight Spaceship.gif" height=100></td>
-    <td><img src="GIFs/Heavy Weight Spaceship.gif" height=100></td>
+    <td><img src="Game of Life/GIFs/Glider.gif" height=100></td>
+    <td><img src="Game of Life/GIFs/Light Weight Spaceship.gif" height=80></td>
+    <td><img src="Game of Life/GIFs/Middle Weight Spaceship.gif" height=100></td>
+    <td><img src="Game of Life/GIFs/Heavy Weight Spaceship.gif" height=100></td>
   </tr>
 </table>
 
@@ -60,6 +60,6 @@
     <td>Gosper Glider Gun</td>
   </tr>
   <tr>
-    <td><img src="GIFs/Gosper Glider Gun.gif"></td>
+    <td><img src="Game of Life/GIFs/Gosper Glider Gun.gif"></td>
   </tr>
 </table>
