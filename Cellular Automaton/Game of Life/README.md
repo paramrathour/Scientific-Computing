@@ -1,6 +1,6 @@
-<center> <h1>Game of Life</h1> </center>
+<h1 align="center">Game of Life</h1>
  
-## Still lifes
+<h2 align="center">Still Lifes</h2>
 
 <table style="text-align:center;">
   <tr>
@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-## Oscillators
+<h2 align="center">Oscillators</h2>
 
 <table style="text-align:center;">
   <tr>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-## Spaceships
+<h2 align="center">Spaceships</h2>
 
 <table style="text-align:center;">
   <tr>
@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-## Glider Gun
+<h2 align="center">Glider Gun</h2>
 
 <table style="text-align:center;">
   <tr>
