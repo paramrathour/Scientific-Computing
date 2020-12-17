@@ -6,3 +6,7 @@
 - Cellular Automaton
   - [Game of Life](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Game%20of%20Life)
   - [Langton's Ant](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Langton's%20Ant)
+- [Zombie Apocalypse using SIR Model]()
+- [Damping in RLC circuits]()
+- [Heat Equation]()
+- [Phase Plots using Runge-Kutta Integrators]()
